@@ -1,0 +1,12 @@
+;:root {
+    --background-color: #ffffff;
+    --border-color: #cccccc;
+    --grid-color: #eeeeee;
+    --line-color: #000000;
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--line-color);
+    font-family: Arial, sans-serif;
+}
